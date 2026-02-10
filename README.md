@@ -134,14 +134,7 @@ I'm always open to discussing cybersecurity, collaborating on security projects,
 ---
 
 
-
-
-
-
 ### 🌟 Thanks for stopping by! 
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=for-the-badge)
-
-**⭐️ From [macorleyedwards](https://github.com/macorleyedwards) | Building the future of cybersecurity, one commit at a time**
+ [macorleyedwards](https://github.com/macorleyedwards) | Building the future of cybersecurity, one commit at a time**
 
 </div>
