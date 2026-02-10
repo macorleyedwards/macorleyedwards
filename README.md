@@ -45,55 +45,16 @@ I'm passionate about cybersecurity and building tools that make security teams m
 
 ## 🎯 Featured Projects
 
-### 🤖 [AI-Powered Security Alert Triage Assistant](https://github.com/yourusername/ai-alert-triage-assistant)
-Intelligent SOC automation tool that reduces analyst workload by 70% through ML-based risk scoring and automated threat intelligence enrichment.
 
-**🔑 Key Features:**
-- Real-time threat intelligence integration (VirusTotal, AbuseIPDB)
-- ML-based risk scoring and false positive prediction
-- MITRE ATT&CK framework mapping
-- Automated investigation playbook generation
 
-**💻 Tech:** Python, Flask, React, Scikit-learn, REST APIs
 
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/ai-alert-triage-assistant)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-demo-link.com)
 
----
-
-### 🧠 [Psychological Attack Pattern Recognition System](https://github.com/yourusername/psych-attack-detector)
-Innovative threat detection system that analyzes the human thinking behind cyber attacks using game theory and behavioral analysis.
-
-**🔑 Key Features:**
-- Attacker decision tree inference using game theory
-- Cultural attack signature analysis for APT attribution
-- Cognitive load detection for social engineering prevention
-
-**💻 Tech:** React, TailwindCSS, Behavioral Analytics
-
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/psych-attack-detector)
-
----
 
 ### 🔐 [More Projects Coming Soon...]
 Currently working on:
 - 🛡️ Shadow IT Discovery Engine
 - 📊 Security Metrics Dashboard
 - 🎣 Phishing Campaign Tracker
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
-
-</div>
 
 ---
 
@@ -148,21 +109,6 @@ Currently working on:
 
 ---
 
-## 📈 Learning Journey
-
-```mermaid
-graph LR
-    A[Cybersecurity Fundamentals] --> B[Network Security]
-    B --> C[Linux & SQL]
-    C --> D[Vulnerability Management]
-    D --> E[Threat Detection]
-    E --> F[Python Automation]
-    F --> G[Real-World Projects]
-    G --> H[Professional Certifications]
-```
-
----
-
 ## 🌟 What I'm Working On
 
 - 🔨 Building production-ready security automation tools
@@ -173,13 +119,6 @@ graph LR
 
 ---
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🔐 [How AI is Transforming SOC Operations](https://yourblog.com/ai-soc)
-- 🎯 [MITRE ATT&CK Framework Explained](https://yourblog.com/mitre-attack)
-- 🛡️ [Building Your First Security Automation Tool](https://yourblog.com/automation)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -194,26 +133,15 @@ I'm always open to discussing cybersecurity, collaborating on security projects,
 
 ---
 
-## 💬 Quote I Live By
 
-> *"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards - and even then I have my doubts."* 
-> 
-> — Gene Spafford
 
----
 
-## 📊 Contribution Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&area=true)
-
----
-
-<div align="center">
 
 ### 🌟 Thanks for stopping by! 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=for-the-badge)
 
-**⭐️ From [yourusername](https://github.com/yourusername) | Building the future of cybersecurity, one commit at a time**
+**⭐️ From [macorleyedwards](https://github.com/macorleyedwards) | Building the future of cybersecurity, one commit at a time**
 
 </div>
